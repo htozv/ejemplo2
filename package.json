@@ -5,7 +5,7 @@
   "dependencies": {
     "chart.js": "^2.7.2",
     "dotenv": "^6.0.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
     "react-chart.js": "^1.0.0",
